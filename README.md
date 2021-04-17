@@ -1,2 +1,2 @@
 # Ineuron-Test
-Python session
+Python Sessions
